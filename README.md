@@ -1,0 +1,2 @@
+# foserp
+Odoo for FOS
